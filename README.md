@@ -1,0 +1,1 @@
+# Water-Quality-Monitoring-Using-Satellite-Imagery-and-GIS-techniques-in-Bhopal
